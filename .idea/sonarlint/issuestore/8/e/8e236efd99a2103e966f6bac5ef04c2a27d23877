@@ -1,0 +1,11 @@
+
+0
+java:S1220""Move this file to a named package.
+{
+java:S1210,"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(¯ß²ýøÿÿÿÿ8¡©¯¾ß1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8 µ±¾ß1
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ8 µ±¾ß1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¡µ±¾ß1
